@@ -9,5 +9,3 @@ console.log(month)
 
 var cdate = date.getDate()
 console.log(cdate)
-
-

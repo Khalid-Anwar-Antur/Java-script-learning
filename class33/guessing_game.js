@@ -8,8 +8,8 @@ if (x==randomNum){
     won++
 }
 else{
-    document.write("You lost the number was"+ randomNum+ "<br>")
+    document.write("You lost the number was "+ randomNum+ "<br>")
     lost++
 }
 }
-document.write("yor won :"+ won +"<br> "+ "you lost :" + lost)
+document.write("you win :"+ won +"<br> "+ "you lost :" + lost)
